@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/LinqServerMode/Main.cs) (VB: [Main.vb](./VB/LinqServerMode/Main.vb))
+* [MyGridControl.cs](./CS/LinqServerMode/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/LinqServerMode/MyGridControl.vb))
+* [MyGridView.cs](./CS/LinqServerMode/MyGridView.cs) (VB: [MyGridView.vb](./VB/LinqServerMode/MyGridView.vb))
+* [MyGridViewInfoRegistrator .cs](./CS/LinqServerMode/MyGridViewInfoRegistrator .cs) (VB: [MyGridViewInfoRegistrator .vb](./VB/LinqServerMode/MyGridViewInfoRegistrator .vb))
+* [Program.cs](./CS/LinqServerMode/Program.cs) (VB: [Program.vb](./VB/LinqServerMode/Program.vb))
+<!-- default file list end -->
 # How to show full information about a database exception that occurs in Server Mode
 
 
